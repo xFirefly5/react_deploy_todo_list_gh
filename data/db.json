@@ -1,0 +1,24 @@
+{
+  "toDos": [
+    {
+      "id": "1",
+      "text": "Go to the Vet",
+      "checked": false
+    },
+    {
+      "id": "2",
+      "text": "Shopping for groceries",
+      "checked": false
+    },
+    {
+      "id": "3",
+      "text": "Mother's Birthday Gift",
+      "checked": false
+    },
+    {
+      "id": "4",
+      "text": "Study for SAT",
+      "checked": false
+    }
+  ]
+}
